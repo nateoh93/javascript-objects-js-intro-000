@@ -1,9 +1,9 @@
 ///var playlist = {artistName: 'songTitle'}
 
-function createPlaylist (playlist, artistName, songTitle) {
-  playlist[artistName] = songTitle
-  return playlist
-}
+//function createPlaylist (playlist, artistName, songTitle) {
+  //playlist[artistName] = songTitle
+  //return playlist
+//}
 
 function updatePlaylist (playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
